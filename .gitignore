@@ -1,0 +1,15 @@
+﻿# Файли конфігурації та кешу Visual Studio
+.vs/
+
+# Файли налаштувань користувача
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Папки з результатами компіляції (білдами)
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
